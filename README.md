@@ -2,8 +2,11 @@
 
 <h3>About me</h3>
 
->Psychology graduate (Research Master, major: Cognitive Neuroscience), 
+>Psychology Research Master graduate (major: Cognitive Neuroscience), 
 >people person, and language nerd, currently exploring JavaScript.
+
+
+![](https://cdn.dribbble.com/users/2212622/screenshots/6329798/figma.png?resize=400x0)
 
 <!--
 **LuamB/LuamB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
