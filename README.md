@@ -7,7 +7,7 @@ I have a passion for both human and programming languages. Words and code have t
 
 
 - 😄 Pronouns: EN: she / DE: sie 
-- 🌱 I’m currently learning TypeScript 
+- 🌱 I’m currently polishing my portfolio projects using JavaScript, React, Next 
 - 🐍 Experience with Python for Data Science 
 - 🤓 Fluent in German, English, Dutch and Tigrinya
 - 🫂 Looking to collaborate on innovative social impact projects<br>
